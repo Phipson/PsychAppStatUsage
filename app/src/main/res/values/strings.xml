@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">App Usage Stats</string>
+    <string name="app_title">App Stats</string>
+
+    //Send Usage Stats Strings
+    <string name="title">Send Statistics</string>
+    <string name="permissions_title">Application Permissions Required</string>
+    <string name="description">As briefed prior to the experiment, you will be asked to send information about your app here. For experimental purposes, you will not be allowed to see these stats until after the experiment is over. \n\n Once the experiment is over, we will give you a password that you can use to see your app usage. Until then, please send the information on a daily basis, and whenever you are prompted to do so.</string>
+    <string name="toggle">Save Current Inputs</string>
+    <string name="toast_fail">An error has occurred. Please contact the developer for help.</string>
+    <string name="toast_success">Your response has been recorded!</string>
+    <string name="mandatory_fill">All fields are mandatory.</string>
+    <string name="wrong_string">There is an error with your input information.</string>
+    <string name="toggle_button">Save Input Information</string>
+    <string name="untoggle_button">Don\'t Save Input</string>
+    <string name="input_name">Enter ID Here</string>
+    <string name="input_tag">Enter Username Here</string>
+    <string name="input_group">Enter Group Code Here</string>
+    <string name="send_data">Send Your Results</string>
+    <string name="get_permissions">Please allow this app to access your device\'s app usage settings.</string>
+    <string name="check_permissions">Check that this app has access to your device\s app usage settings by going to "Settings > Security > "</string>
+    <string name="dialog_continue">Continue</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    //Home Page Strings
+    <string name="send_stats">Send Data</string>
+    <string name="notification">Send Message</string>
+    <string name="settings">Settings</string>
+
+    //Send Notification AlertDialog
+    <string name="request_password">To enter this window, you are required to have a password.\n\nThis window is only authorized for researchers only.\n\nTo enter, please type the given password.</string>
+    <string name="error_password">The password you have entered is incorrect.\n \nPlease try again!</string>
+    <string name="error_title">Error</string>
+    <string name="retry_button">Retry</string>
+    <string name="cancel_button">Cancel</string>
+
+    //Group Topic Subscription Tags
+    <string name="topic_control">C</string>
+    <string name="topic_exp_1">I</string>
+    <string name="topic_exp_2">Nn</string>
+
+</resources>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/63fbdd28500fc4b661bcd3ebf821cc0444d84618/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_0e28e8163be00189f03313755dfbee5fde1e0451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/c0a667769e7010a976523d2819fccdb8f94c4a86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_1e2c47b775a5f573e93c4f5da6fb405e14e500a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/2062ccfd87d97a1344735536000a9d2aae650cf8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_db19d9501546221168ee207bf2cf69bf23d84fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/cf84712939542295a4d740c0bff657d9035f3200/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_a178dc35d936fb54eeacd160d67a29d5aefc8de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/2f53d1c3303ff9f6f148584ed9bbc927b5a0b6ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_8612d47dc21501c5b8e4cb4d614f59705d86722e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/aea16554a48aad3cfca813f0242b44caee4025f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_77d1560f161b4f14f1aa1ee74e4f1e29c95946a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/c5aeb9e01246e9f7fb64d0d5293ae6799d062d8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_1d2047f60bd58a2b2b7ae30b1146b69da74fa260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/okio-1.11.0_c3827a6c29ced0cc69b6a865ee00df7769b7b759.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f8a8a03af32e0a28583a339bfc556b4c78dea56/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1_a4387890f97e16e856cdc3d7e05d1513f14e0520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/6ad3dfb1dbcac9ca880b39de64d83b7817de6766/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_a77bd8f8afc21fea6a8d2382ba236e305990e4a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/ff4967dcef41267c999da54fcc7c7f9e60142282/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_edcba66bc5f730599d317a06276a4fed09530e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/PhipsonHardDrive/Applications/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_3d85e8ad345c64ec39361b2aa6ed5482d98e3c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/390bd2943feeb01719448fdf75ef4e573612c70a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_f2a3cc01f8439259867d9143e9f3ca5fbbea528b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/491c154bdc7b90c5c5b0bb2e008443193b99dcb7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_61b03c7d8042ab5cff7ddab299ef308de3488506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/39d9253d786a0fc0377e92056528d818db49979d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_788f5d04d541b31a5ec5ce6ba3a9d2b94c511b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/014936bdec440665473e4f0b5cbaa3a9448c2bda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_e4318ab21203683a4cd9710074cbcaa8fc5054a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a70641d7e6ac8dda726556dfd698a7edafcdf5df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/gson-2.8.0_8a9962813c6d0153896ded3a4644facfa14f5cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/f7d41dff6036a355398d2894233009862dcb45e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_5de42544c19779379d62f25c77e36ec53f12937a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2229ef2232ba443b088af60c962c3fd76fbd8723">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcbbdfa349453ffcb8c0ad9069700a510471f653/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/23d3005f2a462596ac175bae9498ab7700d59423/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_11d18eb44fa3928a039baefcd2b7469e6ce8d019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/14leec1/.android/build-cache/8bbc320027c2af1a80ebf5d7f7481dce3e245396/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/14leec1/AndroidStudioProjects/AppUsageStats/app/build/intermediates/pre-dexed/debug/classes_f89267c08dddbf874a70e386ba920c37dd0712a7.jar" />
+    </item>
+
+</items>
